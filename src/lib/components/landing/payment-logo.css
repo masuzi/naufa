@@ -1,0 +1,222 @@
+.baseplate .list--logo {
+ list-style:none;
+ margin:0 0 0 -6px;
+ padding:0
+}
+.baseplate .list--logo__item {
+ display:inline-block;
+ margin-left:0;
+ margin-bottom:10px
+}
+.baseplate .list--logo__item img {
+ height:24px;
+ width:auto
+}
+.baseplate .logo-external {
+ width:72px;
+ height:36px;
+ background-color:#fff;
+ background-image:url(https://res.cloudinary.com/masuzi/image/upload/v1649058768/wifi/wegf8vdss5dmmql8jize.png);
+ background-position:0 9999px;
+ background-repeat:no-repeat;
+ -webkit-background-size:72px 72px;
+ background-size:72px;
+ display:block;
+ text-indent:-9999px
+}
+.baseplate .logo-bca-klikpay {
+ background-position:0 0
+}
+.baseplate .logo-mandiri-clickpay {
+ background-position:0 -36px
+}
+.baseplate .logo-mandiri-e-cash {
+ background-position:0 -72px
+}
+.baseplate .logo-cimb-clicks {
+ background-position:0 -108px
+}
+.baseplate .logo-visa {
+ background-position:0 -144px
+}
+.baseplate .logo-mastercard {
+ background-position:0 -180px
+}
+.baseplate .logo-indomaret {
+ background-position:0 -216px
+}
+.baseplate .logo-kredivo {
+ background-position:0 -252px
+}
+.baseplate .logo-akulaku {
+ background-position:0 -288px
+}
+.baseplate .logo-briva {
+ background-position:0 -324px
+}
+.baseplate .logo-danamon {
+ background-position:0 -360px
+}
+.baseplate .logo-bca {
+ background-position:0 -396px
+}
+.baseplate .logo-mandiri {
+ background-position:0 -432px
+}
+.baseplate .logo-bni {
+ background-position:0 -468px
+}
+.baseplate .logo-bri {
+ background-position:0 -504px
+}
+.baseplate .logo-alfamart {
+ background-position:0 -540px
+}
+.baseplate .logo-alfamidi {
+ background-position:0 -576px
+}
+.baseplate .logo-jcb {
+ background-position:0 -612px
+}
+.baseplate .logo-bsi {
+ background-position:0 -648px
+}
+.baseplate .logo-permata {
+ background-position:0 -684px
+}
+.baseplate .logo-dana {
+ background-position:0 -720px
+}
+.baseplate .logo-pospay {
+ background-position:0 -756px
+}
+.baseplate .logo-bri-e-pay {
+ background-position:0 -792px
+}
+.baseplate .logo-cimb {
+ background-position:0 -828px
+}
+.baseplate .logo-transfer {
+ background-position:0 -864px
+}
+.baseplate .logo-credit-card {
+ background-position:0 -900px
+}
+.baseplate .logo-credits {
+ background-position:0 -936px
+}
+.baseplate .logo-bukadompet {
+ background-position:0 -972px
+}
+.baseplate .logo-oneklik {
+ background-position:0 -1008px
+}
+.baseplate .logo-mitra-bukalapak {
+ background-position:0 -1044px
+}
+.baseplate .logo-amex {
+ background-position:0 -1080px
+}
+.baseplate .logo-ocbc-nisp {
+ background-position:0 -1116px
+}
+.baseplate .logo-btn {
+ background-position:0 -1152px
+}
+.baseplate .logo-buka-rekening {
+ background-position:0 -1188px
+}
+.baseplate .logo-bri-ceria {
+ background-position:0 -1224px
+}
+.baseplate .logo-ovo {
+ background-position:0 -1260px
+}
+.baseplate .logo-indodana {
+ background-position:0 -1296px
+}
+.baseplate .logo-linkAja-syariah {
+ background-position:0 -1332px
+}
+.baseplate .logo-shoope-pay {
+ background-position:0 -1390px
+}
+.baseplate .logo-courier {
+ width:72px;
+ height:36px;
+ background-image:url(https://res.cloudinary.com/masuzi/image/upload/v1649062114/wifi/hwzezhimkuccwkk5emwx.png);
+ background-position:0 9999px;
+ background-repeat:no-repeat;
+ background-size:72px;
+ display:inline-block;
+ text-indent:-99999px
+}
+.baseplate .logo-courier-jne {
+ background-position:0 0
+}
+.baseplate .logo-courier-tiki {
+ background-position:0 -36px
+}
+.baseplate .logo-courier-pos {
+ background-position:0 -72px
+}
+.baseplate .logo-courier-rpx {
+ background-position:0 -108px
+}
+.baseplate .logo-courier-wahana {
+ background-position:0 -144px
+}
+.baseplate .logo-courier-go-jek {
+ background-position:0 -180px
+}
+.baseplate .logo-courier-sicepat {
+ background-position:0 -216px
+}
+.baseplate .logo-courier-ninjavan {
+ background-position:0 -252px
+}
+.baseplate .logo-courier-jnt {
+ background-position:0 -288px
+}
+.baseplate .logo-courier-sap {
+ background-position:0 -324px
+}
+.baseplate .logo-courier-grab {
+ background-position:0 -360px
+}
+.baseplate .logo-courier-pickup {
+ background-position:0 -396px
+}
+.baseplate .logo-courier-pelapak {
+ background-position:0 -432px
+}
+.baseplate .logo-courier-alfatrex {
+ background-position:0 -468px
+}
+.baseplate .logo-courier-lionparcel {
+ background-position:0 -504px
+}
+.baseplate .logo-courier-janio {
+ background-position:0 -540px
+}
+.baseplate .logo-courier-paxel {
+ background-position:0 -576px
+}
+.baseplate .logo-courier-rocket {
+ background-position:0 -612px
+}
+.baseplate .logo-courier-cod {
+ background-position:0 -648px
+}
+.baseplate .logo-courier-lapak {
+ background-position:0 -684px
+}
+.baseplate .logo-courier-indah {
+ background-position:0 -720px
+}
+.baseplate .logo-courier-whitelabel {
+ background-position:0 -756px
+}
+.baseplate .logo-courier-anteraja {
+ background-position:0 -792px
+}

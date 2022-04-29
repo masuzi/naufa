@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "naufal",
+      "script": "PORT=3060 node build",
+      "instances": 1,
+      "exec_mode": "fork"
+    }
+  ]
+}

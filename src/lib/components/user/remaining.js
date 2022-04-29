@@ -1,0 +1,26 @@
+export function timer(endTime, durationDay = 1) {
+  const second = 1000,
+    minute = second * 60,
+    hour = minute * 60,
+    day = hour * 24;
+
+  let endDate = new Date(endTime);
+  endDate.setDate(endDate.getDate()+durationDay);
+  
+  let end = endDate.getTime();
+  let x = setInterval(function () {
+      let now = new Date().getTime(),
+        timeLeft = end - now;
+
+      let days = Math.floor(timeLeft / (day)),
+        hours = Math.floor((timeLeft % (day)) / (hour)),
+        minutes = Math.floor((timeLeft % (hour)) / (minute)),
+        seconds = Math.floor((timeLeft % (minute)) / second);
+
+      console.log('Time left:' + days + "Days " + hours + "Hrs " + minutes + "Mins " + seconds + "secs")
+
+      if (timeLeft < 0) {
+        clearInterval(x);
+      }
+    }, 1000)                    // time refresh in ms
+}
